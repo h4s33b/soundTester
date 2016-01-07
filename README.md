@@ -1,11 +1,13 @@
 # soundTester
 This is a demo project for Recording Audio and Saving it to device.
 
-Clone the repository and run
+Clone the repository then open cmd and run command
 
 ionic state reset
 
-Android will be added in platforms then open cmd and run commands
+Android will be added in platforms 
+
+then run command
 
 1) ionic serve (To view in browser)
 
